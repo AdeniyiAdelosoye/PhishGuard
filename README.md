@@ -66,7 +66,7 @@ python phishing_detector.py
 ```
 
 5. Paste an email into the application window.
-6. Click "Analyze Email" to scan for phishing indicators.
+6. Click "Run Analysis" to scan for phishing indicators.
 
 
 ## Disclaimer
