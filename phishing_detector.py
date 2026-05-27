@@ -33,7 +33,7 @@ def analyze_email():
             score += weight
             detected_words.append(f"{word} (+{weight})")
 
-    urls = re.findall(r'https?://[^\s]+', email_text)
+    urls = re.findall(r'https?://\S+', email_text)
     if urls:
         score += 20
         detected_words.append("Contains Links (+20)")
