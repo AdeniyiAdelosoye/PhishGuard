@@ -37,7 +37,7 @@ Based on the final score, the email is classified as:
 
 ⚠️ HIGH RISK: Possible Phishing Email
 
-Risk Score: 100%
+Risk Score: 75%
 
 Detected Indicators:
 - urgent
@@ -66,7 +66,7 @@ python phishing_detector.py
 ```
 
 5. Paste an email into the application window.
-6. Click "Analyze Email" to scan for phishing indicators.
+6. Click "Run Analysis" to scan for phishing indicators.
 
 
 ## Disclaimer
