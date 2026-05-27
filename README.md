@@ -37,7 +37,7 @@ Based on the final score, the email is classified as:
 
 ⚠️ HIGH RISK: Possible Phishing Email
 
-Risk Score: 100%
+Risk Score: 75%
 
 Detected Indicators:
 - urgent
