@@ -76,3 +76,9 @@ This project is intended strictly for educational and demonstration purposes.
 The emails, links, institutions, and examples used in this project are fictional and were created only for testing the detection system.
 
 PhishGuard is not intended to impersonate real organizations or be used for malicious activity.
+
+
+##**Author**
+
+Adeniyi Adelosoye
+
