@@ -78,7 +78,10 @@ The emails, links, institutions, and examples used in this project are fictional
 PhishGuard is not intended to impersonate real organizations or be used for malicious activity.
 
 
-##**Author**
+## 👨🏾‍💻 Author
 
-Adeniyi Adelosoye
+**Adeniyi Adelsoye**
 
+Computer Engineer | Software Engineering & Cybersecurity Enthusiast
+
+I enjoy building practical projects that explore the intersection of software engineering and cybersecurity while continuously learning and improving through hands on development.
